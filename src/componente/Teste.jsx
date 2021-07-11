@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Teste extends Component {
     render() {
         return (
-            <div>
+            <div class="foto">
             <img src="bg.jpg" alt="imagem"/>
             </div>
         );
