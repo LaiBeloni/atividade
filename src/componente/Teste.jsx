@@ -3,8 +3,9 @@ import React, { Component } from 'react';
 class Teste extends Component {
     render() {
         return (
-            <div class="foto">
+            <div>
             <img src="bg.jpg" alt="imagem"/>
+            <a href="https://github.com/LaiBeloni/atividade">Ver no Git</a>
             </div>
         );
     }
