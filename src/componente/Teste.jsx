@@ -5,9 +5,11 @@ class Teste extends Component {
         return (
             <div>
             <img src="bg.jpg" alt="imagem"/>
-            <a href="https://github.com/LaiBeloni/atividade">Ver no Git</a>
             </div>
+            <a href="https://github.com/LaiBeloni/atividade">Ver no Git</a>
+            
         );
+        
     }
 }
 
